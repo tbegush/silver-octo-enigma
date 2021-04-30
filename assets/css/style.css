@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Style the header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Style the Nav bar */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* Style the hero to include img */
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +78,7 @@ p {
     margin-left: 20px;
 }
 
+/* Renamed to services consolidated code to comply with DRY principle */
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -104,6 +108,7 @@ p {
     background-color: #2589bd;
 }
 
+/* consolidated code, renamed to .benefit */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
